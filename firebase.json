@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/apps/dietasadrian",
+    "public": "dist/apps/adrianbadilla/browser",
     "ignore": [
       "firebase.json",
       "**/.*",

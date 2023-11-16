@@ -28,7 +28,7 @@ jobs:
         run: sudo chmod 777 -R /home/runner/work/adrianbadilla/adrianbadilla/node_modules
 
       - name: 'chmod node dist/apps/'
-        run: sudo chmod 777 -R /home/runner/work/adrianbadilla/adrianbadilla/dist/
+        run: sudo chmod 777 -R /home/runner/work/adrianbadilla/adrianbadilla/dist/browser
 
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:

@@ -1,5 +1,3 @@
-export * from './lib/lib.routes';
-
 export * from './lib/components/shared/shared.component';
 
 export * from './lib/components/strength-meter/strength-meter.component';

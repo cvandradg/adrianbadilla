@@ -53,8 +53,8 @@
           ],
           "fileReplacements": [
             {
-              "replace": "libs/dietasadrian/frontend/shared/shared-module/src/lib/environments/environment.ts",
-              "with": "libs/dietasadrian/frontend/shared/shared-module/src/lib/environments/environment.prod.ts"
+              "replace": "libs/adrianbadilla/frontend/ui/shared/src/lib/environments/environment.ts",
+              "with": "libs/adrianbadilla/frontend/ui/shared/src/lib/environments/environment.prod.ts"
             }
           ],
           "outputHashing": "all"

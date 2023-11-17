@@ -15,6 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@adrianbadilla/shared/*": [
+        "libs/adrianbadilla/frontend/ui/shared/src/index.ts"
+      ],
       "@appStore/*": ["libs/dietasadrian/frontend/ui/app/src/lib/+state/*"],
       "@authHelper": [
         "libs/dietasadrian/frontend/ui/app/src/lib/classes/firebaseAuthHelper.ts"

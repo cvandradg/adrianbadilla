@@ -15,7 +15,10 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@adrianbadilla/shared/*": [
+      "@adrianbadilla/app": [
+        "libs/adrianbadilla/frontend/ui/app/src/index.ts"
+      ],
+      "@adrianbadilla/shared": [
         "libs/adrianbadilla/frontend/ui/shared/src/index.ts"
       ],
       "@appStore/*": ["libs/dietasadrian/frontend/ui/app/src/lib/+state/*"],
